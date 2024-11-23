@@ -22,5 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
+#define DEBOUNCE 10
+
 /* Enable 1000Hz polling */
 #define USB_POLLING_INTERVAL_MS 1
